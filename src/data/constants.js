@@ -12,9 +12,9 @@ export const Bio = {
   resume:
     "https://docs.google.com/document/d/1KqG3hx-lz2zB9c0CNHaRe6QbpWN6a9fr/edit?usp=sharing&ouid=111889594562709790140&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/kunal-gupta-004427224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  twitter: "https://twitter.com/RishavChanda",
+  
   insta: "https://www.instagram.com/imkunal.06/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  
 };
 
 export const skills = [
