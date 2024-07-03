@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/kunalgupta06/",
+  github: "https://github.com/kunalgupta06",
   resume:
     "https://docs.google.com/document/d/1KqG3hx-lz2zB9c0CNHaRe6QbpWN6a9fr/edit?usp=sharing&ouid=111889594562709790140&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/kunal-gupta-004427224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
